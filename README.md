@@ -30,12 +30,11 @@
  overfitting.
  3.4 Evaluation Metrics
  The model's performance is evaluated using:
-   - Accuracy: Proportion of correctly classified samples.
    - Confusion Matrix: Provides insight into misclassifications between biodegradable and
  non-biodegradable categories.
    - Classification Report: Summarizes precision, recall, and F1-score for each class.
- 4. Results- Test Accuracy: The model achieved a test accuracy of around X% (replace `X`
- with actual accuracy from evaluation).- Confusion Matrix and Classification Report:
+ 4. Results-
+ Confusion Matrix and Classification Report:
    - The confusion matrix and classification report indicate that the model can
  reasonably distinguish between recyclable and non-recyclable materials,
  although some misclassifications may occur.
