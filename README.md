@@ -53,7 +53,13 @@
  although some misclassifications may occur.
    - Precision and recall values give insight into the model's accuracy in each
  category.
- 5. Conclusion
+
+5. Results
+
+The model achieved an accuracy of 93.83%, which indicates that it can reasonably distinguish between biodegradable and non-biodegradable materials. Some misclassifications may occur, but the precision and recall values suggest the model performs well in categorizing waste.
+
+
+ 6. Conclusion
 
  The Waste Classification Model demonstrates a promising approach to
  automated waste categorization, potentially aiding in efficient waste
